@@ -39,6 +39,12 @@ This is a web application built with Next.js, TypeScript, and Tailwind CSS that 
 - [TypeScript](https://www.typescriptlang.org/) - A superset of JavaScript that adds static typing.
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for quickly building custom designs.
 
+## Preview
+
+[![Sorting Visualizer Preview](preview.png)](https://sorting-visualizer-1lr710axk-fvucemilos-projects.vercel.app)
+
+Click the image to see it in action.
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
